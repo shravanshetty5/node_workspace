@@ -1,0 +1,6 @@
+{
+    "repositories": [
+        "git@github.com:shravanshetty5/Portfolio-angularjs.git",
+        "git@github.com:shravanshetty5/wedding-server.git"
+    ]
+}
